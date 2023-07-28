@@ -2,7 +2,7 @@
  
 <!--- Stats Github --->
 <img align="left" width="430" height="auto" alt="ake123's github stats" src="https://github-readme-stats.vercel.app/api?username=ake123&hide=_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=6a6f3f&show_icons=true;count_private=true&amp;include_all_commits=true">
-<img align="right" width="359" height="auto" alt="ake123 github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ake123&hide=_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&layout=compact&amp;show_icons=true&amp;">
+<img align="right" width="359" height="auto" alt="ake123 github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ake123&hide=_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=6a6f3f&layout=compact&amp;show_icons=true&amp;">
 </h2>
 <!--- Snake Graph --->
 <p align="center">
