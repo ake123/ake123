@@ -34,7 +34,6 @@
         <img src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4" alt="tailwind" width="40" height="40" />
     </a>
 </p>
-
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ake123&label=Profile%20views&color=0e75b6&style=flat" alt="ake123" />
 </p>
