@@ -1,22 +1,20 @@
 <p align="center">
-
-  <!--- Stats Github --->
-  <img align="left" width="430" height="auto" alt="ake123's github stats"
+  <img width="430" alt="ake123's github stats"
     src="https://github-readme-stats.vercel.app/api?username=ake123&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=5D5D57" />
-
-  <img align="right" width="359" height="auto" alt="ake123 top languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ake123&layout=compact&hide_border=true&title_color=0ff54c&text_color=c9d1d9&bg_color=5D5D57" />
-
 </p>
 
-<br />
-<br />
-<br />
-
-<!--- Snake Graph --->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ake123/ake123/output/github-contribution-grid-snake.svg"
-    alt="snake" style="max-width: 100%;" />
+  <img width="359" alt="ake123 top languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ake123&layout=compact&hide_border=true&title_color=0ff54c&text_color=c9d1d9&bg_color=5D5D57" />
+</p>
+
+<br/>
+
+<!-- Snake Graph -->
+<p align="center">
+  <img alt="snake"
+    src="https://raw.githubusercontent.com/ake123/ake123/output/github-contribution-grid-snake.svg"
+    style="max-width: 100%;" />
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -41,10 +39,11 @@
     <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4" alt="tailwind" width="40" height="40" />
+    <img src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4" alt="tailwindcss" width="40" height="40" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ake123&label=Profile%20views&color=0e75b6&style=flat" alt="ake123 profile views" />
+  <img alt="ake123 profile views"
+    src="https://komarev.com/ghpvc/?username=ake123&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
